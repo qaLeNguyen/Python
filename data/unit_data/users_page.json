@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "zFolder01",
+      "description": "zFolder01's description"
+    },
+    {
+      "name": "zFolder02",
+      "description": "zFolder02's description"
+    },
+    {
+      "name": "zFolder03",
+      "description": "zFolder03's description"
+    },
+    {
+      "name": "zFolder04",
+      "description": "zFolder04's description"
+    },
+    {
+      "name": "zFolder05",
+      "description": "zFolder05's description"
+    }
+  ]
+}
